@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lZgO1AwJBkEhKudNB+95SYKNFxjSxRmqjHp42Kd1T4itZP43iG8AaHiRxIL41nd33LuN2HE5H3G63WGCKq4GQw==",
+  "success": true,
+  "projectFilePath": "G:\\Testes Profissionais\\Microsserviço - Aliare\\Desafio Backend Aliare\\Desafio Backend Aliare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
